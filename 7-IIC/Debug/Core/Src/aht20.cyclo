@@ -1,0 +1,5 @@
+../Core/Src/aht20.c:14:6:AHT20_init	2
+../Core/Src/aht20.c:25:6:AHT20_Read	2
+../Core/Src/aht20.c:44:6:AHT20_Measure	1
+../Core/Src/aht20.c:49:6:AHT20_get	1
+../Core/Src/aht20.c:53:6:AHT20_Analysis	2
